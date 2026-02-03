@@ -67,6 +67,11 @@ body {
    Display: block;
 Color:#333;
 Text-decoration:none:}
+.card { 
+  display:block;
+  text-decoration:none;
+  color: inherit;
+}
 
 .card h2 {
   font-size: 1.2rem;
